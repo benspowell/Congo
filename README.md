@@ -1,6 +1,6 @@
 #  Congo
 
-***Congo: the world's second largest rainforest, and soon to become the second largest online retail platform.***
+***Congo: the world's second largest rainforest after the Amazon rainforest, and soon to become the second largest online retail platform.***
 
 Congo is a database-driven online retail control panel and ordering system. It tracks inventories of various types of products, accounting for sales and shipments to alter the inventory. The purpose of this project was to plan, construct and implement a database from scratch. 
 
